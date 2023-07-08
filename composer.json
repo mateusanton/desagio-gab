@@ -1,0 +1,8 @@
+{
+  "name": "mateus/desafio",
+  "autoload": {
+    "psr-4": {
+      "App\\":"app/"
+    }
+  }
+}
